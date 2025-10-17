@@ -26,7 +26,7 @@ Dibangun menggunakan **C (C17 Standard)**, Fintrix berfokus pada kecepatan, kese
 ## ⚙️ Cara Instalasi & Menjalankan
 
 1️⃣ Clone repository
-```bash
+
 git clone https://github.com/<your-username>/Fintrix.git
 cd Fintrix
 
@@ -43,4 +43,5 @@ gcc main.c -o fintrix
 Enter password:
 
 fintrix123
+
 
