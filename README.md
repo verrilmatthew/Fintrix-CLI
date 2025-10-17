@@ -40,6 +40,7 @@ gcc main.c -o fintrix
 ./fintrix
 
 
-Masukkan password:
+Enter password:
 
 fintrix123
+
